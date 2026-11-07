@@ -1,4 +1,4 @@
-### Miyeong Park (박미영)
+### Mi Yeong Park (박미영)
 
 I build AI services around material that can't be wrong. Numbers and statutes are computed by code; the model only translates what people say or writes explanations, and its answers go out only after being checked against the source text and the computed values.
 
